@@ -1,0 +1,4 @@
+github.com/badoux/checkmail v1.2.4 h1:4zMjdYDjE2Q7xF06VNfyN8P9JGU7epLjNb+Yu5OThVI=
+github.com/badoux/checkmail v1.2.4/go.mod h1:XroCOBU5zzZJcLvgwU15I+2xXyCdTWXyR9MGfRhBYy0=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
